@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "22762501044",
+    "firebase_url": "https://fir-test1-a2f9c-default-rtdb.firebaseio.com",
+    "project_id": "fir-test1-a2f9c",
+    "storage_bucket": "fir-test1-a2f9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762501044:android:5696689766f2325cd338e1",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A9kamEDwbnLt6v8fkwvvYaSfqHvQEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762501044:android:e2ee09cba9accb55d338e1",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A9kamEDwbnLt6v8fkwvvYaSfqHvQEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762501044:android:fcbfeb81f8568facd338e1",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A9kamEDwbnLt6v8fkwvvYaSfqHvQEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762501044:android:18c8448380bfe0b0d338e1",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A9kamEDwbnLt6v8fkwvvYaSfqHvQEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762501044:android:8cac6c82cabf6fe3d338e1",
+        "android_client_info": {
+          "package_name": "com.example.testfirebaserealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A9kamEDwbnLt6v8fkwvvYaSfqHvQEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22762501044:android:dac9a21e0f8fb463d338e1",
+        "android_client_info": {
+          "package_name": "com.team4studio.emerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A9kamEDwbnLt6v8fkwvvYaSfqHvQEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
